@@ -18,3 +18,4 @@
 - luci-app-ssr-plus        ------------------Lean大神 
 - luci-theme-opentomcat    ------------------opentomcat主题
 
+感谢LEAN，Lienol，SIRPDBOY等大神分享源码
